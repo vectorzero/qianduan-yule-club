@@ -226,6 +226,7 @@ header .social .btn {
   -moz-box-shadow: 2px 2px 0 #f27c7c;
   -ms-box-shadow: 2px 2px 0 #f27c7c;
   box-shadow: 2px 2px 0 #f27c7c;
+  -webkit-tap-highlight-color:transparent;
 }
 
 .btn:hover {
